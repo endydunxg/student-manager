@@ -1,8 +1,9 @@
 # Student Manager Plugin
 
 Plugin quản lý sinh viên WordPress. 
-**Tác giả:** Ngô Đức Dũng
-**MSSV:** 23810310264
+
+**Sinh viên:** Ngô Đức Dũng         
+**MSV:** 23810310264
 
 ## Chức năng
 - Custom Post Type quản lý sinh viên.
