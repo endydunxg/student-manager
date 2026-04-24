@@ -1,0 +1,23 @@
+.sm-student-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-family: inherit;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
+}
+
+.sm-student-table thead tr {
+    background-color: #0073aa; /* Màu xanh đặc trưng của WordPress */
+    color: #ffffff;
+    text-align: left;
+}
+
+.sm-student-table th,
+.sm-student-table td {
+    padding: 12px 15px;
+    border-bottom: 1px solid #dddddd;
+}
+
+.sm-student-table tbody tr:hover {
+    background-color: #f1f1f1;
+}
